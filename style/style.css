@@ -1,4 +1,4 @@
-<style>
+
   #box-container {
     display: flex;
     height: 500px;
@@ -15,4 +15,3 @@
     height: 200px;
     flex-basis: 20em;
   }
-</style>
